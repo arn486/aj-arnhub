@@ -1223,4 +1223,4 @@ end
     G2L["15"]["MaxTextSize"] = 14;
 
     -- StarterGui.AutoJoiner.Main.RunButton
-    G2L["16"] = Instance.new("TextButton", G2L["2
+    G2L["16"] = Instance.new("TextButton", G2L["2"])
